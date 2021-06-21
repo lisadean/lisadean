@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Profile views](https://gpvc.arturio.dev/lisadean)
+![Profile views](https://gpvc.arturio.dev/lisadean) | <a href="https://twitter.com/intent/follow?screen_name=LisaRDean&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/LisaRDean?label=%40LisaRDean&style=social"></a>
 
 <!--
 **lisadean/lisadean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
